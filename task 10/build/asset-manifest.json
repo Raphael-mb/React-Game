@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Raphael-mb.github.io/React-Game/static/css/main.ef8640e2.chunk.css",
+    "main.js": "/Raphael-mb.github.io/React-Game/static/js/main.80b42f34.chunk.js",
+    "main.js.map": "/Raphael-mb.github.io/React-Game/static/js/main.80b42f34.chunk.js.map",
+    "runtime-main.js": "/Raphael-mb.github.io/React-Game/static/js/runtime-main.68571afe.js",
+    "runtime-main.js.map": "/Raphael-mb.github.io/React-Game/static/js/runtime-main.68571afe.js.map",
+    "static/js/2.66224a4f.chunk.js": "/Raphael-mb.github.io/React-Game/static/js/2.66224a4f.chunk.js",
+    "static/js/2.66224a4f.chunk.js.map": "/Raphael-mb.github.io/React-Game/static/js/2.66224a4f.chunk.js.map",
+    "index.html": "/Raphael-mb.github.io/React-Game/index.html",
+    "precache-manifest.d2d590a06599f20de29df4eb0106c405.js": "/Raphael-mb.github.io/React-Game/precache-manifest.d2d590a06599f20de29df4eb0106c405.js",
+    "service-worker.js": "/Raphael-mb.github.io/React-Game/service-worker.js",
+    "static/css/main.ef8640e2.chunk.css.map": "/Raphael-mb.github.io/React-Game/static/css/main.ef8640e2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68571afe.js",
+    "static/js/2.66224a4f.chunk.js",
+    "static/css/main.ef8640e2.chunk.css",
+    "static/js/main.80b42f34.chunk.js"
+  ]
+}
